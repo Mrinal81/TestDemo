@@ -5,7 +5,7 @@ git init
 . In Terminal write npm app.js
 
 
-# AFTER DOING ABOVE STEP, THEN ONLY DO THIS STEP FOR STARTING THE HTML PAGE
+# AFTER DOING THE ABOVE STEP, THEN ONLY DO THIS STEP FOR STARTING THE HTML PAGE
 
 # 1st WAY
 . Right-click on the api.html file and click on Open with Live Server.
