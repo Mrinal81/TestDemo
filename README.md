@@ -31,16 +31,12 @@ git init
 
 # API LINK FOR POST AND GET (use the given link for Postman in the new request and paste it for both the POST method URL and GET method URL)
  POST: http://localhost:3000/api/products 
-
-https://github.com/Mrinal81/TestDemo/assets/76482022/0b55c2f1-077d-4b3d-bb3f-ee836a24d5db
-
-
-
-https://github.com/Mrinal81/TestDemo/assets/76482022/7444d9ab-5e3c-44b3-b6a3-a2ffb32133d0
-
-
  #
  GET: http://localhost:3000/api/products 
+
+
+
+https://github.com/Mrinal81/TestDemo/assets/76482022/4aa94ac7-d3ad-40b5-8180-f108ca035296
 
 
 ![Screenshot (244)](https://github.com/Mrinal81/TestDemo/assets/76482022/97ead18f-b11d-4000-9bf9-144e692fd3ce)
